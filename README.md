@@ -9,3 +9,5 @@
 ### Автор: Denys Mescheryakov
 
 Udemy URL: <https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/15546724#notes>
+
+Project News App is ready to be published at: <https://turzhanskyi.github.io/news-app/index.html>
