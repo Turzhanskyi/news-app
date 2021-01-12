@@ -1,13 +1,5 @@
-# Проект News App
+# Project [News App JavaScript](https://turzhanskyi.github.io/news-app-js/index.html)
 
-#### Розділ 3: Асинхронний JavaScript
+## [Udemy Course](https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/15546724#notes) Modern JavaScript + Vue from scratch on real projects.
 
-## Сучасний JavaScript + Vue з нуля на реальних проектах.
-
-Курс для початківців розробників. Практика на реальних проектах. Домашні завдання. JS ES6 +, Vue.js, ООП, AJAX, Webpack
-
-### Автор: Denys Mescheryakov
-
-Udemy URL: <https://www.udemy.com/course/modern-javascript-from-beginning/learn/lecture/15546724#notes>
-
-Project News App is ready to be published at: <https://turzhanskyi.github.io/news-app/index.html>
+### Instructor: [Denys Mescheryakov](https://www.udemy.com/user/denys-mescheryakov/)

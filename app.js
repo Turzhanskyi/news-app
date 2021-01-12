@@ -60,7 +60,7 @@ const http = customHttp();
 // Сервіс для роботи з новинами, який через apiKey взаємодіє з сервером новин apiUrl
 const newsService = (function() {
   const apiKey = "f5c6b4b70c2f452d868c3712145e7753";
-  const apiUrl = "https://newsapi.org/v2";
+  const apiUrl = 'https://news-api-v2.herokuapp.com';
 
   return {
     topHeadlines(country = "ua", cb) {
